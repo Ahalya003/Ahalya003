@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Ahalya Rajan 👋</h1>
 <p align="center">
-  <b>M.Tech CSE (AI & ML) · VIT Vellore &nbsp;|&nbsp; 4× IEEE & Springer Author &nbsp;|&nbsp; Joint Secretary · AI Association</b>
+  <b>M.Tech CSE (AI & ML) · VIT Vellore &nbsp;|&nbsp; 4× IEEE & Springer Author &nbsp</b>
 </p>
 <p align="center">
   <a href="https://www.linkedin.com/in/ahalyarajan/">
