@@ -16,7 +16,7 @@
   <path d="M0,130 C150,90 300,160 450,120 C600,80 750,150 900,110 L900,180 L0,180 Z" fill="url(#wave1)"/>
   <path d="M0,150 C200,120 400,165 600,140 C750,120 850,155 900,145 L900,180 L0,180 Z" fill="#7c3aed" opacity="0.3"/>
   <text x="450" y="85" font-family="Georgia, serif" font-size="42" font-weight="bold" fill="white" text-anchor="middle" letter-spacing="2">Ahalya Rajan</text>
-  <text x="450" y="120" font-family="Georgia, serif" font-size="15" fill="#c4b5fd" text-anchor="middle" letter-spacing="1">M.Tech CSE (AI &amp; ML)  ·  VIT Vellore  ·  4× IEEE &amp; Springer Author</text>
+  <text x="450" y="120" font-family="Georgia, serif" font-size="18" fill="#c4b5fd" text-anchor="middle" letter-spacing="1">M.Tech CSE (AI &amp; ML)  ·  VIT Vellore  ·  4× IEEE &amp; Springer Author</text>
 </svg>
 
 <br/>
